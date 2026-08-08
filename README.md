@@ -7,5 +7,8 @@ A collection of AI / ML / DL / NLP / CV projects — models, notebooks, and expe
 | Project | Description | Stack |
 |---|---|---|
 | [StudyMate — Local AI Student Assistant](./studymate-ai-student-assistant) | Local (no external API) study assistant: custom-trained YOLOv8 layout detection + Tesseract OCR feeds a RAG chatbot, quiz generator, and mind-map builder, served through a bilingual (EN/AR) Gradio dashboard. | YOLOv8, Tesseract OCR, BART, ChromaDB, SentenceTransformers, Qwen2.5-1.5B, spaCy, Gradio |
+| [Teeth Segmentation with U-Net](./teeth-segmentation-unet) | Binary segmentation model that predicts a pixel-level teeth mask from a photo, trained on a self-collected, hand-annotated dataset (291 images). U-Net decoder on a frozen, ImageNet-pretrained ResNet50 encoder, trained with Dice loss. | TensorFlow/Keras, ResNet50, U-Net, OpenCV |
+| [IPL 2023 Auction — EDA](./ipl-2023-auction-eda) | Exploratory analysis of the IPL 2023 player auction: data cleaning plus visual answers to team-composition and pricing questions (base price by role, players per team, top-priced players). | Pandas, Seaborn, Matplotlib |
+| [COVID-19 Global Dataset Analysis](./covid19-global-analysis) | Exploratory analysis of global COVID-19 daily and summary data: mortality/fatality rates by country and continent, top-affected countries, choropleth maps, and per-country case/death time series. | Pandas, Plotly, Seaborn, Matplotlib |
 
 More projects are added here over time — see each folder's README for details, setup instructions, and results.
