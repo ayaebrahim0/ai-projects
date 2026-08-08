@@ -1,0 +1,17 @@
+ultralytics
+pytesseract
+pymupdf
+pillow
+sentencepiece
+tiktoken
+transformers
+sentence-transformers
+chromadb
+pyvis
+gradio
+spacy
+networkx
+torch
+numpy
+opencv-python
+easyocr
