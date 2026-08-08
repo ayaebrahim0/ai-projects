@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Global Dataset Analysis
+# 🦠 COVID-19 Global Dataset Analysis 
 
 Exploratory data analysis of global COVID-19 case, death, recovery, and testing data (Worldometer data, daily time series + per-country summary).
 
